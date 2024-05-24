@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'task',
     'rest_framework',
     'corsheaders',
+    'whitenoise',
     
 ]
 
